@@ -68,5 +68,3 @@ let boxesDisable=()=>{
 
 reset.addEventListener("click",resetBtn);
 newGameBtn.addEventListener("click",resetBtn);
-
-
