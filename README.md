@@ -27,5 +27,6 @@ I learned and built this project from **Apna College YouTube Channel**.
 **Vijay Bagul**  
 
 ## 🔗 Live Demo 
-[Play Now](https://your-username.github.io/tic-tac-toe/)
+[Play Now](https://bagulvijay.github.io/tic-tac-toe/)
+
 
