@@ -68,3 +68,20 @@ main{
     border-radius:4vmin;
     font-size:15vmin;
 }
+@media(max-width:550px){
+    #box{
+        width:70vmin;
+    }
+    .button{
+        height:35px;
+        width:90px;
+        margin-top:30px;
+        margin-bottom:150vmin;
+    }
+    .win-lable{
+        font-size:25px;
+    }
+    
+
+    
+}
